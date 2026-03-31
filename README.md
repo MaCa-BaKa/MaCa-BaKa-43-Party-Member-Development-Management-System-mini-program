@@ -1,5 +1,7 @@
 # 43-党员发展管理系统(小程序)
 
+[文档地址](http://wechat.zjrcsy.cn/)
+
 ##### 技术栈: springBoot+Vue+Mysql+Uni-app 
 
 ##### 功能点: 用户端   管理员端 (ruoyi框架)
@@ -87,3 +89,5 @@
 ![image-20260330223450683](https://yunzhuceshi.oss-cn-beijing.aliyuncs.com/typoraImg/image-20260330223450683.png)
 
 ![image-20260330223500306](https://yunzhuceshi.oss-cn-beijing.aliyuncs.com/typoraImg/image-20260330223500306.png)
+
+[文档地址](http://wechat.zjrcsy.cn/)
